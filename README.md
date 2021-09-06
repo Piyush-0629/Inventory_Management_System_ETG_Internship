@@ -6,4 +6,5 @@ In this project you will get about how to manage the inventoty through python an
 
 # Social Media handles
 Linkedin   :- https://www.linkedin.com/in/piyushsuryawanshi/
+
 Instagram  :- https://www.instagram.com/piyush_29__/
